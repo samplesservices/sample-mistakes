@@ -8,9 +8,9 @@ header:
   overlay_image: /assets/images/banner3.png
   actions:
     - label: "Explore Services"
-      url: "/sample-mistakes/services/"
+      url: "{{ site.baseurl }}/services/"
     - label: "Contact Us"
-      url: "/sample-mistakes/contact/"
+      url: "{{ site.baseurl }}/contact/"
 excerpt: "Cloud-first IT solutions for modern businesses"
 ---
 
@@ -21,7 +21,7 @@ excerpt: "Cloud-first IT solutions for modern businesses"
 
 <section style="max-width: 800px; margin: 0 auto 3rem;">
   <h2 style="text-align: center;">
-    <a href="/sample-mistakes/services/" style="text-decoration: none; color: inherit;">
+    <a href="{{ site.baseurl }}/services/" style="text-decoration: none; color: inherit;">
       Our Services
     </a>
   </h2>
@@ -48,5 +48,5 @@ excerpt: "Cloud-first IT solutions for modern businesses"
 
 <section style="text-align: center; padding: 2rem 0;">
   <h2>Ready to get started?</h2>
-  <a href="/sample-mistakes/contact/" class="btn btn--primary">Contact us today</a>
+  <a href="{{ site.baseurl }}/contact/" class="btn btn--primary">Contact us today</a>
 </section>
