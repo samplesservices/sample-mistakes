@@ -39,17 +39,17 @@ We help modern businesses streamline their IT through secure cloud platforms and
     <p>Modernize identity with secure SSO, MFA, and access policies using Microsoft Entra ID.</p>
   </div>
 
-  <div class="service-card">
-    <i class="fas fa-cloud-upload-alt service-icon"></i>
-    <h3>Microsoft 365 Migration</h3>
-    <p>Move your email, identity, and apps to the cloud — Exchange, Entra ID, and more.</p>
-  </div>
+<div class="service-card">
+  <i class="fas fa-cloud-upload-alt service-icon"></i>
+  <h3>Microsoft 365 Migration</h3>
+  <p>Move your email, identity, and apps to the cloud: Exchange, Entra ID, and more.</p>
+</div>
 
-  <div class="service-card">
-    <i class="fas fa-mobile-alt service-icon"></i>
-    <h3>Intune Device Management</h3>
-    <p>Secure and manage devices with Intune — enforce compliance, deploy apps, and more.</p>
-  </div>
+<div class="service-card">
+  <i class="fas fa-mobile-alt service-icon"></i>
+  <h3>Intune Device Management</h3>
+  <p>Secure and manage devices with Intune. Enforce compliance, deploy apps, and support users.</p>
+</div>
 
   <div class="service-card">
     <i class="fas fa-tools service-icon"></i>
