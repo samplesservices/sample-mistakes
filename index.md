@@ -5,7 +5,7 @@ masthead_title: " "
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner1.png
+  overlay_image: /assets/images/banner3.png
   actions:
     - label: "Explore Services"
       url: "{{ site.baseurl }}/services/"
