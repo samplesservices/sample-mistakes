@@ -73,4 +73,4 @@ We help modern businesses streamline their IT through secure cloud platforms and
 
 <br>
 
-<p style="text-align: center;"><a href="/contact/" class="btn btn--primary">Get in Touch</a></p>
+<p style="text-align: center;"><a href="{{ site.baseurl }}/contact/" class="btn btn--primary">Get in Touch</a></p>
