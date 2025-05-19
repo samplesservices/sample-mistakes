@@ -5,7 +5,10 @@ permalink: /contact/
 classes: wide
 ---
 
-## Get in touch
+<div style="text-align: center;">
+  <h2>Get in touch</h2>
+</div>
+
 
 <div class="contact-form">
   <form action="https://formspree.io/f/yourformid" method="POST">
